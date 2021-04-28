@@ -1,7 +1,7 @@
 # Pokemon classification on iOS using Convolutional Neural Network based on Keras
 Author: Bokun Kong
 
-Link to github repo:
+Link to github repo: [pokemon classification](https://github.com/Rayyyk/Pokemon-classification-on-iOS-using-CNN)
 
 ## Introduction
 In this study, deep learning models are designed and trained to conduct image classification on live camera stream. I intend to recognize Pokemon by using the neural network on portable iOS devices. Convolutional neural network is trained based on Keras, which converted to CoreML models processed by iOS devices, and live image classification App is built.
